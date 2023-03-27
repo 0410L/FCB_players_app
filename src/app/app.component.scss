@@ -1,0 +1,31 @@
+.back {
+    background-color: #181733;
+}
+
+.bann {
+    background-color: #181733;
+}
+
+.aficio {
+    position: relative;
+    max-width: 100%;
+  }
+  
+  .aficio::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url('../assets/foto_aficio.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.2;
+  }
+  
+
+  .aficio > * {
+    position: relative;
+    z-index: 1;
+  }

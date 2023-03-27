@@ -1,0 +1,230 @@
+{
+    "players": {
+       "goalkeepers": [
+          {
+             "Name": "Marc-André",
+             "LastName": "Stegen",
+             "BgName": "STEGEN",
+             "Number": 1,
+             "Position": "Portero",
+             "matches": 364,
+             "cero_goals": 149,
+             "stops": 833,
+             "url": "https://drive.google.com/uc?id=1shw__gguRvSiPcWJLY0ATeucYCaVEDGN"
+          },
+          {
+             "Name": "Iñaki",
+             "LastName": "Peña",
+             "BgName": "PEÑA",
+             "Number": 13,
+             "Position": "Portero",
+             "matches": 3,
+             "cero_goals": 1,
+             "stops": 2,
+             "url": "https://drive.google.com/uc?id=1xrr8sH48iC7xCWHfcLin3FpI4QXoqjEj"
+          }
+       ],
+       "defendors": [
+          {
+             "Name": "Ronald",
+             "LastName": "Araújo",
+             "BgName": "ARAÚJO",
+             "Number": 4,
+             "Position": "Defensa",
+             "matches": 104,
+             "goals": 7,
+             "assists": 2,
+             "url": "https://drive.google.com/uc?id=1hLkkxznuwv1fwPSxX2bxnxUEJEpZ5NGg"
+          },
+          {
+             "Name": "Andreas",
+             "LastName": "Christensen",
+             "BgName": "CHRISTENSEN",
+             "Number": 15,
+             "Position": "Defensa",
+             "matches": 25,
+             "goals": 0,
+             "assists": 0,
+             "url": "https://drive.google.com/uc?id=1HCmDY95qZ3vioSSDC5JQskLA4-zTOtLD"
+          },
+          {
+             "Name": "Marco",
+             "LastName": "Alonso",
+             "BgName": "ALONSO",
+             "Number": 17,
+             "Position": "Defensa",
+             "matches": 27,
+             "goals": 3,
+             "assists": 0,
+             "url": "https://drive.google.com/uc?id=11r6YZq8TkftK2WY2sGM_MVqlW4w44-Mc"
+          },
+          {
+             "Name": "Jordi",
+             "LastName": "Alba",
+             "BgName": "ALBA",
+             "Number": 18,
+             "Position": "Defensa",
+             "matches": 451,
+             "goals": 26,
+             "assists": 91,
+             "url": "https://drive.google.com/uc?id=1BxdMkmGKNQZVmnWatiwWjLkxJbroR3Vh"
+          },
+          { 
+             "Name": "Jules",
+             "LastName": "Koundé",
+             "BgName": "KOUNDÉ",
+             "Number": 23,
+             "Position": "Defensa",
+             "matches": 28,
+             "goals": 0,
+             "assists": 0,
+             "url": "https://drive.google.com/uc?id=19Jxi1ssuv117_Vyl7i0FmJUp_WEMBS_R"
+          },
+          {
+             "Name": "Eric",
+             "LastName": "García",
+             "BgName": "GARCÍA",
+             "Number": 24,
+             "Position": "Defensa",
+             "matches": 57,
+             "goals": 1,
+             "assists": 2,
+             "url": "https://drive.google.com/uc?id=1XudnUCoYXgZRt7Cjo21eooyaVEuNKfzh"
+          }
+       ],
+       "midfielders": [
+          {
+             "Name": "Sergio",
+             "LastName": "Busquets",
+             "BgName": "BUSQUETS",
+             "Number": 5,
+             "Position": "Centrocampista",
+             "matches": 713,
+             "goals": 19,
+             "assists": 39,
+             "url": "https://drive.google.com/uc?id=1U1Sw7eg8-stQfaAhm6xDZiB1qc9Em4nW"
+          },
+          {
+             "Name": "",
+             "LastName": "Gavi",
+             "BgName": "GAVI",
+             "Number": 6,
+             "Position": "Centrocampista",
+             "matches": 84,
+             "goals": 4,
+             "assists": 9,
+             "url": "https://drive.google.com/uc?id=1qFFaHR53JgKxU6IDBQulCUdtPSzcrf7T"
+          },
+          {
+             "Name": "",
+             "LastName": "Pedri",
+             "BgName": "PEDRI",
+             "Number": 8,
+             "Position": "Centrocampista",
+             "matches": 104,
+             "goals": 16,
+             "assists": 7,
+             "url": "https://drive.google.com/uc?id=1Yy0cl9YaRSsL-T2INw4yBVfkZxo8juwD"
+          },
+          {
+             "Name": "Franck",
+             "LastName": "Kessié",
+             "BgName": "KESSIÉ",
+             "Number": 19,
+             "Position": "Centrocampista",
+             "matches": 32,
+             "goals": 3,
+             "assists": 3,
+             "url": "https://drive.google.com/uc?id=1JH_fvmseNXWfvXFipG9kh1UwnsKgjpPC"
+          },
+          {
+             "Name": "Sergi",
+             "LastName": "Roberto",
+             "BgName": "ROBERTO",
+             "Number": 20,
+             "Position": "Centrocampista",
+             "matches": 342,
+             "goals": 16,
+             "assists": 40,
+             "url": "https://drive.google.com/uc?id=1I5V5yiSTUP0VPjIsxZG4IUXZFoL3z72T"
+          },
+          {
+             "Name": "Frenkie",
+             "LastName": "De Jong",
+             "BgName": "JONG",
+             "Number": 21,
+             "Position": "Centrocampista",
+             "matches": 174,
+             "goals": 15,
+             "assists": 16,
+             "url": "https://drive.google.com/uc?id=1lWeX3I_0AEU9602-SmLR5DAje6EI_jTF"
+          }
+       ],
+       "forwarders": [
+          {
+             "Name": "Ousmane",
+             "LastName": "Dembélé",
+             "BgName": "DEMBÉLÉ",
+             "Number": 7,
+             "Position": "Delantero",
+             "matches": 178,
+             "goals": 40,
+             "assists": 40,
+             "url": "https://drive.google.com/uc?id=1XclguMNWflav8Z_QDl25n-fP7m4Vj6V2"
+          },
+          {
+             "Name": "Robert",
+             "LastName": "Lewandowski",
+             "BgName": "LEWANDOWSKI",
+             "Number": 9,
+             "Position": "Delantero",
+             "matches": 33,
+             "goals": 25,
+             "assists": 6,
+             "url": "https://drive.google.com/uc?id=1BwH_sNLwkn3A-Lhywnb8IBIsaU64oVQk"
+          },
+          {
+             "Name": "Ansu",
+             "LastName": "Fati",
+             "BgName": "FATI",
+             "Number": 10,
+             "Position": "Delantero",
+             "matches": 96,
+             "goals": 25,
+             "assists": 6,
+             "url": "https://drive.google.com/uc?id=1X8ys6kGbWiPM5BD4u0n94MGv_ZgGk_nF"
+          },
+          {
+             "Name": "Ferran",
+             "LastName": "Torres",
+             "BgName": "TORRES",
+             "Number": 11,
+             "Position": "Delantero",
+             "matches": 60,
+             "goals": 12,
+             "assists": 7,
+             "url": "https://drive.google.com/uc?id=1h8R9te-HalYOCKZOKNkK8Du8hX_uiOTk"
+          },
+          {
+             "Name": "",
+             "LastName": "Raphina",
+             "BgName": "RAPHINHA",
+             "Number": 22,
+             "Position": "Delantero",
+             "matches": 38,
+             "goals": 9,
+             "assists": 9,
+             "url": "https://drive.google.com/uc?id=1tY_XAfktvY0HgtSEO1HM0TytFWAcsNUt"
+          }
+       ],
+       "tec_team": [
+          {
+             "Name": "Xavi",
+             "LastName": "Hernández",
+             "Position": "Entrenador",
+             "BgName": "XAVI",
+             "url": "https://drive.google.com/uc?id=1EBnEnYvssoHtKRHBl6OsXqhDIqs5VsLX"
+          }
+       ]
+    }
+ }
