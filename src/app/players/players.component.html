@@ -1,0 +1,54 @@
+<div class="fw-bold">FC Barcelona First Team</div>
+
+<div class="col">
+    <div class="disp text-center">
+        <h1 class="text-center mt-5 mb-5 fw-bold">Porteros</h1>
+    </div>
+    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3 w-100">
+        <div class="col " *ngFor="let goal of goalkeepers">
+        <app-card-players [item]="goal"></app-card-players>
+    </div>
+</div>
+
+<div class="col">
+    <div class="disp text-center">
+        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">Defensas</h1>
+    </div>
+    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3 w-100">
+        <div class="col" *ngFor="let def of defendors">
+        <app-card-players [item]="def"></app-card-players>
+    </div>
+</div>
+
+<div class="col">
+    <div class="disp text-center">
+        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">Centrocampistas</h1>
+    </div>
+    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3 w-100">
+        <div class="col" *ngFor="let mid of midfielders">
+        <app-card-players [item]="mid"></app-card-players>
+    </div>
+</div>
+
+<div class="col">
+    <div class="disp text-center">
+        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">Delanteros</h1>
+    </div>
+    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3 w-100">
+        <div class="col" *ngFor="let forw of forwarders">
+        <app-card-players [item]="forw"></app-card-players>
+    </div>
+</div>
+
+<div class="col">
+    <div class="disp text-center">
+        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">Cuerpo técnico</h1>
+    </div>
+    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3 w-100">
+        <div class="col" *ngFor="let tec of tec_team">
+        <app-card-players [item]="tec"></app-card-players>
+    </div>
+</div>
+
+
+
