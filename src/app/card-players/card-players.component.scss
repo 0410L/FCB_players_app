@@ -33,7 +33,7 @@
 
 .status {
   position: absolute;
-  justify-content: center;
+  justify-content: space-between;
   bottom: -4vh;
   left: 0vw;
   right: 0vw;
@@ -41,6 +41,7 @@
   opacity: 0;
   display: none;
   overflow: hidden;
+  font-size: 0.5rem;
   
 }
 
@@ -59,7 +60,7 @@
       transition: top 0.5s ease;
       top: 130px;
       transition: opacity 0.5s ease-in-out;
-      opacity: 0.0;
+      //opacity: 0.0;
     }
     .status{
       -webkit-animation: text-pop-up-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
@@ -126,15 +127,22 @@
 
 @media (max-width: 992px){
   .desc{
-    font-size: 0.5rem;
+    font-size: 0.3rem;
+  }
+  .status {
+    font-size: 0.1rem;
   }
 }
 
 
 @media (max-width: 990px){
   h2{
-    font-size: 0.5rem;
+    font-size: 0.3rem;
   }
+  .desc{
+    font-size: 0.1rem;
+  }
+  
 }
 
 
@@ -143,7 +151,10 @@
     font-size: 1.3rem;
   }
   .desc{
-    font-size: 0.7rem;
+    font-size: 0.6rem;
+  }
+  .status {
+    font-size: 0.3rem;
   }
 }
 

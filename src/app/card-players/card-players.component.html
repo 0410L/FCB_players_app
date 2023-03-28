@@ -4,13 +4,12 @@
             <h2 class="fw-bold">{{item.Number}} </h2><h2 style="margin-right: 10px; margin-left: 10px; font-style: italic;">{{item.Name}} </h2><h2 class="fw-bold">{{item.LastName}}</h2>
         </div>
         <h5 class="d-flex justify-content-center">{{item.Position}}</h5></div>
-        <h5 class="bigName d-flex justify-content-center">{{item.BgName}}</h5>
-        <div class="status row text-center d-flex fw-bold text-white shadow-text">
-            <div class="desc col text-white shadow-text"><span>Partidos</span><h3 class="fw-bold">25</h3><span>2022/2023</span><h3 class="fw-bold">25</h3></div>
-            <div class="desc col text-white shadow-text"><span>Goles</span><h3 class="fw-bold">25</h3><span>2022/2023</span><h3 class="fw-bold">25</h3></div>
-            <div class="desc col text-white shadow-text"><span>Asistencias</span><h3 class="fw-bold">25</h3><span>2022/2023</span><h3 class="fw-bold">25</h3></div>
+        <h5 class="bigName d-flex justify-content-space-between">{{item.BgName}}</h5>
+        <div class="status text-center d-flex fw-bold text-white shadow-text">
+            <div class="desc col text-white shadow-text"><span>{{item.title1}}</span><h3 class="fw-bold">{{item.matches}}</h3><span>{{item.div1}}</span><h3 class="fw-bold text-warning">{{item.title1_2023}}</h3></div>
+            <div class="desc col text-white shadow-text"><span>{{item.title2}}</span><h3 class="fw-bold">{{item.goals}}</h3><span>{{item.div2}}</span><h3 class="fw-bold text-warning">{{item.title2_2023}}</h3></div>
+            <div class="desc col text-white shadow-text"><span>{{item.title3}}</span><h3 class="fw-bold">{{item.assists}}</h3><span>{{item.div3}}</span><h3 class="fw-bold text-warning">{{item.title3_2023}}</h3></div>
             </div>
     <img src="{{item.url}}" style="width: 100%; height: auto;">
-
 </div>
 
