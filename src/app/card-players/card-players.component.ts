@@ -11,4 +11,7 @@ export class CardPlayersComponent {
 
   @Input() item: any;
   
+  
+
 }
+
