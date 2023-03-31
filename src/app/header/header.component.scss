@@ -1,0 +1,22 @@
+.banner{
+    background: linear-gradient(90deg,#cd122d,#154284);
+}
+
+.fcb{
+    background: linear-gradient(180deg,#cd122d,#154284);
+    color: yellow;
+    border: yellow;
+}
+
+.banner .row {
+    align-items: center;
+}
+
+.dropdown-menu a {
+    color: yellow;
+}
+
+.dropdown-menu a:hover {
+    background-color: yellow;
+    color: black;
+}
