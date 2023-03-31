@@ -1,0 +1,20 @@
+{
+   "TituloPagina": "FC Barcelona - First Team",
+
+   "Porteros":"Goalkeepers",
+   "Defensas":"Defenders",
+   "Centrocampistas": "Midfielders",
+   "Delanteros": "Forwarders",
+   "Entrenador": "Coach",
+   "Portero": "Goalkeeper",
+   "Defensa":"Defender",
+   "Centrocampista": "Midfielder",
+   "Delantero": "Forwarder",
+   "PARTIDOS": "APPEARANCES",
+   "GOLES": "GOALS",
+   "ASISTENCIAS": "ASSISTS",
+   "PORTERÍA CERO":"CLEAN SHEETS",
+   "PARADAS":"SAVES",
+   "IDIOMAS":"LANGUAGES",
+   "Idiomas":"Languages"
+}

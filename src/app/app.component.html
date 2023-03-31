@@ -1,8 +1,11 @@
-<div class="aficio container-fluid bann pb-5 pt-5 text-center text-warning"><h1 class="fw-bold">FC Barcelona - Primer Equipo</h1></div>
+
+<app-header class="header" style="position: fixed; top: 0; left: 0; right: 0; z-index: 9999;"></app-header>
+<div class="aficio container-fluid bann pb-5 pt-5 text-center text-warning mt-5"><h1 class="fw-bold">{{"TituloPagina"|translate}}</h1></div>
 <div class="container-fluid back">
     <div class="container-sm rounded bg-white p-5 pt-5 pb-5">
         <router-outlet></router-outlet>
     </div>
 </div>
 <div class="container-fluid bann pb-5 pt-5"></div>
+<app-footer></app-footer>
 

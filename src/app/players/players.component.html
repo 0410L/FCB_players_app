@@ -1,8 +1,17 @@
-<div class="fw-bold">FC Barcelona First Team</div>
+<div class="fw-bold">{{"TituloPagina"|translate}}</div>
+<br>
 
-<div class="col">
+<div class="buttid d-flex mb-1">
+    <a class="rounded btn btn-secondary btn-bs" href="#Porteros">{{"Porteros"|translate}}</a>&nbsp;&nbsp;
+    <a class="rounded btn btn-secondary btn-bs" href="#Defensas">{{"Defensas"|translate}}</a>&nbsp;&nbsp;
+    <a class="rounded btn btn-secondary btn-bs" href="#Centrocampistas">{{"Centrocampistas"|translate}}</a>&nbsp;&nbsp;
+    <a class="rounded btn btn-secondary btn-bs" href="#Delanteros">{{"Delanteros"|translate}}</a>&nbsp;&nbsp;
+    <a class="rounded btn btn-secondary btn-bs" href="#Entrenador">{{"Entrenador"|translate}}</a>&nbsp;&nbsp;
+</div>
+
+<div class="col" id="Porteros">
     <div class="disp text-center">
-        <h1 class="text-center mt-5 mb-5 fw-bold">Porteros</h1>
+        <h1 class="text-center mt-5 mb-5 fw-bold">{{"Porteros"|translate}}</h1>
     </div>
     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3 w-100">
         <div class="col " *ngFor="let goal of goalkeepers">
@@ -10,9 +19,9 @@
     </div>
 </div>
 
-<div class="col">
+<div class="col" id="Defensas">
     <div class="disp text-center">
-        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">Defensas</h1>
+        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">{{"Defensas"|translate}}</h1>
     </div>
     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3 w-100">
         <div class="col" *ngFor="let def of defendors">
@@ -20,9 +29,9 @@
     </div>
 </div>
 
-<div class="col">
+<div class="col" id="Centrocampistas">
     <div class="disp text-center">
-        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">Centrocampistas</h1>
+        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">{{"Centrocampistas"|translate}}</h1>
     </div>
     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3 w-100">
         <div class="col" *ngFor="let mid of midfielders">
@@ -30,9 +39,9 @@
     </div>
 </div>
 
-<div class="col">
+<div class="col" id="Delanteros">
     <div class="disp text-center">
-        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">Delanteros</h1>
+        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">{{"Delanteros"|translate}}</h1>
     </div>
     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3 w-100">
         <div class="col" *ngFor="let forw of forwarders">
@@ -40,9 +49,9 @@
     </div>
 </div>
 
-<div class="col">
+<div class="col" id="Entrenador">
     <div class="disp text-center">
-        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">Cuerpo técnico</h1>
+        <h1 class="titledesc text-center mt-5 mb-5 fw-bold">{{"Entrenador"|translate}}</h1>
     </div>
     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3 w-100">
         <div class="col" *ngFor="let tec of tec_team">

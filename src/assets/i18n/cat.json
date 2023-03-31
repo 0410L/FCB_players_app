@@ -1,0 +1,19 @@
+{
+   "TituloPagina": "FC Barcelona - Primer Equip",
+
+   "Porteros":"Porters",
+   "Defensas":"Defenses",
+   "Centrocampistas": "Centrecampistes",
+   "Delanteros": "Delanter",
+   "Entrenador": "Entrenador", 
+   "Portero": "Porter",
+   "Defensa":"Defensa",
+   "Centrocampista": "Centrecampista",
+   "Delantero": "Delanter",
+   "PARTIDOS": "PARTITS",
+   "GOLES": "GOLS",
+   "ASISTENCIAS": "ASISTENCIES",
+   "PORTERÍA CERO":"PORTERIA ZERO",
+   "PARADAS":"ATURADES",
+   "Idiomas":"Idiomes"
+}
