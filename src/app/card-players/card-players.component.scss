@@ -161,3 +161,36 @@
 }
 
 
+@media (max-width: 500px){
+
+  .card:hover{
+    &:hover {
+     .bigName{
+       transition: top 0.5s ease;
+       top: 130px;
+       transition: opacity 0.5s ease-in-out;
+       -webkit-animation: text-pop-up-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+       animation: text-pop-up-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+     }
+     .text-description{
+       transition: top 0.5s ease;
+       top: 130px;
+       transition: opacity 0.5s ease-in-out;
+       opacity: 0.0;
+     }
+     .status{
+       -webkit-animation: text-pop-up-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+       animation: text-pop-up-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+       transition: opacity 1s ease-in-out;
+       display: block;
+       opacity: 1;
+     }
+     .shadow-text{
+       text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+       text-shadow: 2px 2px 5px rgba(0, 0, 0, 2);
+     }
+ 
+   }
+ }
+}
+

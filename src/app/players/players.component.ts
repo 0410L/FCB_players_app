@@ -9,7 +9,7 @@ import * as json from 'plantillaFCB.json';
 })
 export class PlayersComponent implements OnInit {
   title = 'fcbarcelona-app';
-  loading = true;
+
   
   es = json;
   goalkeepers = this.es.players.goalkeepers;
@@ -20,7 +20,6 @@ export class PlayersComponent implements OnInit {
 
   constructor(private translate:TranslateService){
     translate.use(translate.getBrowserLang()!);
-    this.loading = false;
   }
 
 
