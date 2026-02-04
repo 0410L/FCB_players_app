@@ -35,7 +35,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/25-Szczesny.webp"
+        "url": "assets/images/25-Szczesny.webp"
       }
     ],
     "defendors": [
@@ -55,7 +55,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/02-Cubarsi.webp"
+        "url": "assets/images/02-Cubarsi.webp"
       },
       {
         "Name": "Alejandro",
@@ -73,7 +73,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/03-Balde.webp"
+        "url": "assets/images/03-Balde.webp"
       },
       {
         "Name": "Ronald",
@@ -91,7 +91,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/04-Araujo.webp"
+        "url": "assets/images/04-Araujo.webp"
       },
       {
         "Name": "Andreas",
@@ -109,7 +109,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/15-Christensen.webp"
+        "url": "assets/images/15-Christensen.webp"
       },
       {
         "Name": "Eric",
@@ -127,7 +127,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/24-Eric_Garcia.webp"
+        "url": "assets/images/24-Eric_Garcia.webp"
       },
       {
         "Name": "João",
@@ -145,7 +145,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/00-Cancelo.webp"
+        "url": "assets/images/00-Cancelo.webp"
       }
     ],
     "midfielders": [
@@ -165,7 +165,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/06-Gavi.webp"
+        "url": "assets/images/06-Gavi.webp"
       },
       {
         "Name": "",
@@ -183,7 +183,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/08-Pedri.webp"
+        "url": "assets/images/08-Pedri.webp"
       },
       {
         "Name": "Frenkie",
@@ -201,7 +201,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/21-De_Jong.webp"
+        "url": "assets/images/21-De_Jong.webp"
       },
       {
         "Name": "Fermín",
@@ -219,7 +219,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/16-Fermin.webp"
+        "url": "assets/images/16-Fermin.webp"
       },
       {
         "Name": "Marc",
@@ -237,7 +237,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/17-Casado.webp"
+        "url": "assets/images/17-Casado.webp"
       },
       {
         "Name": "Marc",
@@ -255,7 +255,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/22-Bernal.webp"
+        "url": "assets/images/22-Bernal.webp"
       }
     ],
     "forwarders": [
@@ -275,7 +275,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/07-Ferran_Torres.webp"
+        "url": "assets/images/07-Ferran_Torres.webp"
       },
       {
         "Name": "Robert",
@@ -293,7 +293,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/09-Lewandowski.webp"
+        "url": "assets/images/09-Lewandowski.webp"
       },
       {
         "Name": "Lamine",
@@ -311,7 +311,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/10-Lamine.webp"
+        "url": "assets/images/10-Lamine.webp"
       },
       {
         "Name": "",
@@ -329,7 +329,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/11-Raphinha.webp"
+        "url": "assets/images/11-Raphinha.webp"
       },
       {
         "Name": "Marcus",
@@ -347,7 +347,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/14-Rashford.webp"
+        "url": "assets/images/14-Rashford.webp"
       },
       {
         "Name": "Roony",
@@ -365,7 +365,7 @@
         "matches": 0,
         "goals": 0,
         "assists": 0,
-        "url": "src/assets/images/28-Bardghji.webp"
+        "url": "assets/images/28-Bardghji.webp"
       }
     ],
     "tec_team": [
@@ -374,7 +374,7 @@
         "LastName": "Flick",
         "Position": "Entrenador",
         "BgName": "FLICK",
-        "url": "src/assets/images/00-Hansi_Flick.webp"
+        "url": "assets/images/00-Hansi_Flick.webp"
       }
     ]
   }
